@@ -1,7 +1,7 @@
 <!--
  IMPORTANT: Please use the following link to create a new issue:
 
-  https://www.creative-tim.com/product/argon-dashboard-pro-svelte
+  https://www.creative-tim.com/new-issue/argon-dashboard-pro-svelte
 
 **If your issue was not created using the app above, it will be closed immediately.**
 -->
